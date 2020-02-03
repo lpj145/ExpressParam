@@ -1,0 +1,19 @@
+{
+    "name": "marcos/express-param",
+    "description": "This library intent to translate some queries params to a query builder, for make more expressive rest api.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcos Dantas",
+            "email": "marcos.adantas@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ExpressParam\\": "src/"
+        }
+    }
+}
